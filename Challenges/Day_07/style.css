@@ -26,7 +26,7 @@ body {
   color: white;
   font-weight: bolder;
   background-color: #487027;
-  border-radius: 10px;
+  border-radius: 100px;
 }
 
 .button::before, 
@@ -37,8 +37,8 @@ body {
   right: 0;
   top: 0;
   bottom: 0;
-  background: linear-gradient(to right,  #316F3D, #4EB071);
-  border-radius: 20px;
+  background: linear-gradient(to right,  #689972, #4EB071);
+  border-radius: 100px;
   transition: all .3s ease-in-out;
 }
 
